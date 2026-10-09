@@ -1,0 +1,6 @@
+pandas
+opencv-python
+matplotlib
+pytest
+notebook
+ipykernel

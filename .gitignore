@@ -1,0 +1,14 @@
+# Python / environments
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+
+# Private data - never commit student data or photos
+data/*.csv
+data/*.db
+student_images/*
+!student_images/.gitkeep
